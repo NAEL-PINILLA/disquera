@@ -6,7 +6,7 @@ cd spotify
 
 npm start
 
-pause 2
+pause 
 
 exit
 
