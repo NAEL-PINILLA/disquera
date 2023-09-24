@@ -1,10 +1,10 @@
-La aplicacion disquera la podemos iniciar de manera automatica 
+Buenas tardes profe Yury espero se encuentre muy bien, La aplicacion disquera la inicio automaticamente 
 ejecutando el archivo disquera.bat
-no debera cerrar las ventanas DOS son las inicializan la aplicacion
 
-o de manera manual siguiendo las pasos siguientes
 
-ejecute el archivo index.html luego valla a la ruta acontinuacion
+Tambien de forma manual con los siguientes pasos
+
+ejecutando el archivo index.html con la siguiente ruta, debe de correr por que a mi me corre, mil gracias
 
 cd spotify 
 npm install
